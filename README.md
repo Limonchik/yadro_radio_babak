@@ -1,2 +1,1 @@
-# yadro_radio_babak
-Тестовое задание Yadro
+# Тестовое задание Yadro DevOps
